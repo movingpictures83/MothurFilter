@@ -1,0 +1,6 @@
+shared	output.shared
+taxonomy	output.taxonomy
+metadata	metadata.csv
+threshold	0.5
+sharedout	output.filtered.shared
+taxonomyout	output.filtered.taxonomy

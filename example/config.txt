@@ -1,0 +1,2 @@
+Prefix plugins/MothurFilter/example
+Plugin MothurFilter inputfile parameters.mothurfilter.txt outputfile .
